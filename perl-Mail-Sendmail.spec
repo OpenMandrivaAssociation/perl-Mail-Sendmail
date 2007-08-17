@@ -2,7 +2,7 @@
 %define	realname 	Mail-Sendmail
 %define	majorver	0.79
 %define minorver	16
-%define	release 	%mkrel 1
+%define	release 	%mkrel 2
 
 Name:		%{name}
 Summary:	Simple platform-independent mailer
