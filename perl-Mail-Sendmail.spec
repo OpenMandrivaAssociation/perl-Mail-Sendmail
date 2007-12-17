@@ -13,7 +13,6 @@ Group:		Development/Perl
 URL:		http://search.cpan.org/dist/%{realname}
 Source:		http://www.cpan.org/authors/id/M/MI/MIVKOVIC/%{realname}-%{majorver}_%{minorver}.tar.bz2
 BuildRequires:	perl-devel
-Buildroot:	%{_tmppath}/%{name}-buildroot
 BuildArch:	noarch
 
 
