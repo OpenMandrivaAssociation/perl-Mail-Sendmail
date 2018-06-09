@@ -1,14 +1,14 @@
 %define	modname	Mail-Sendmail
-%define	modver	0.79_16
+%define	modver	0.80
 
 Summary:	Simple platform-independent mailer
 Name:		perl-%{modname}
 Version:	%perl_convert_version %{modver}
-Release:	15
+Release:	1
 License:	GPLv2
 Group:		Development/Perl
 Url:		http://search.cpan.org/dist/%{modname}
-Source0:	http://www.cpan.org/authors/id/M/MI/MIVKOVIC/%{modname}-%{modver}.tar.bz2
+Source0:	http://www.cpan.org/authors/id/N/NE/NEILB/%{modname}-%{modver}.tar.gz
 BuildArch:	noarch
 BuildRequires:	perl-devel
 
